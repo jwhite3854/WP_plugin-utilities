@@ -1,0 +1,9 @@
+#jwhite-addons-selection {
+    max-width: 800px;
+    overflow: hidden;
+}
+
+#jwhite-addons-selection li {
+    width: 380px;
+    float: left;
+}
